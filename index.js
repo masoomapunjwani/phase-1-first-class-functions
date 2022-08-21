@@ -1,5 +1,5 @@
 function drinking(){
-    return 'coffee';
+    return 'Its a coffee day';
 }
 
 function recievesAFunction(drinking){
